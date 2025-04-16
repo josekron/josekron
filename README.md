@@ -2,9 +2,9 @@
 
 I'm _José_ 🧑🏻‍💻 from Málaga, Spain 🇪🇸 but based in London, UK 🇬🇧 <br />
 
-> [!A little about myself]
+> [!NOTE]
 > I am a Software Engineer with extensive experience working in start-ups and **building products from scratch to scale them up globally**.
-> 
+> > 
 > I consider myself a **programming language agnostic person**. I pick the technology or language that fits best for the problem to solve and the team.
 > 
 > I enjoy working on small **cross-functional teams and being involved in the whole lifecycle of a product**. Although my experience leans towards the back-end and dev-Ops, I've been exposed to the front-end and mobile development as well. Some > people would consider this as a Full-Stack engineer, but I consider myself a **Product Engineer**.
