@@ -3,16 +3,16 @@
 I'm _José_ 🧑🏻‍💻 from Málaga, Spain 🇪🇸 but based in London, UK 🇬🇧 <br />
 
 > [!NOTE]
-> I am a Software Engineer with extensive experience working in start-ups and **building products from scratch to scale them up globally**.
+> I am a Software Engineer with extensive experience working in start-ups, **building products from the ground up and scaling them globally**.
 > > 
-> I consider myself a **programming language agnostic person**. I pick the technology or language that fits best for the problem to solve and the team.
+> I consider myself **language agnostic**. I choose the technology or language that best fits the problem to solve and the team.
 > 
-> I enjoy working on small **cross-functional teams and being involved in the whole lifecycle of a product**. Although my experience leans towards the back-end and dev-Ops, I've been exposed to the front-end and mobile development as well. Some people would consider this as a Full-Stack engineer, but I consider myself a **Product Engineer**.
+> I enjoy working in small **cross-functional teams and being involved in the entire product lifecycle**. While my background leans more towards the back-end and dev-Ops, I've also worked across front-end and mobile development. Some might call this being a Full-Stack engineer, but I prefer to describe myself as a **Product Engineer**.
 
 - 💼 **Senior Software Engineer** @[**MOO**](https://moo.com)
 - 🌱 Some of my goals for **2025** are:
 	- Master **Golang**
-	- Sharp my **frontend skills**
+	- Sharp my **frontend skills** ✅
 	- Become **AWS Certified Solutions Architect**
 	- Write a **technical blog post**
 	- Launch a [game](https://zancocho.itch.io/mad-math) for **[Playdate](https://play.date/)** ✅
