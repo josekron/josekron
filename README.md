@@ -9,14 +9,12 @@ I'm _José_ 🧑🏻‍💻 from Málaga, Spain 🇪🇸 but based in London, UK
 > 
 > I enjoy working in small **cross-functional teams and being involved in the entire product lifecycle**. While my background leans more towards the back-end and dev-Ops, I've also worked across front-end and mobile development. Some might call this being a Full-Stack engineer, but I prefer to describe myself as a **Product Engineer**.
 
-- 💼 **Senior Software Engineer** @[**MOO**](https://moo.com)
+- 💼 **Senior Software Engineer**
 - 🌱 Some of my goals for 2026 are:
-	- Continue mastering Golang
 	- Upskill in system design
 	- Update my personal blog and write a technical blog post
 	- Ship my personal project (2025)
-   	- Internal tool using AI Agents (work related)
-	- Launch version 2 of my Playdate Playdate
+   	- Internal tool using AI Agents (work related) ✅
 - 🪴 Some goals I achieved in 2025:
 	- Master Golang 🏗️
 	- Sharpen my frontend skills ✅
